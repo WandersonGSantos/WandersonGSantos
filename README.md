@@ -40,7 +40,3 @@
 </div>
 
 ###
-
-[![@wanderlavo's Holopin board](https://holopin.me/wanderlavo)](https://holopin.io/@wanderlavo)
-
-###
