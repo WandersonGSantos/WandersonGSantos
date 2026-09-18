@@ -14,10 +14,6 @@
 
 ###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WandersonGSantos&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-###
-
 | ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=WandersonGSantos&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WandersonGSantos&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
 | ----------- | ----------- |
  
